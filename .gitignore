@@ -1,6 +1,10 @@
 WebGLPlugins
 build
 
-Library
-Temp
-Logs
+/.vs
+/.vscode
+
+/Library
+/Temp
+/Logs
+/obj
